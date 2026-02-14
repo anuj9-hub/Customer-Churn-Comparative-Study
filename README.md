@@ -10,8 +10,7 @@ The workflow includes:
 - Exploratory Data Analysis (EDA)  
 - Feature engineering  
 - Model benchmarking  
-- Cross-validation  
-- Hyperparameter tuning  
+- Cross-validation 
 - Pipeline-based implementation for reproducibility  
 
 ---
